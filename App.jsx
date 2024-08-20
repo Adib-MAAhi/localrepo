@@ -17,4 +17,6 @@ function Button() {
   return <button>{pending ? "Adding" : "Add"}</button>;
 }
 
+<header>This is our header</header>;
+
 export default App;
