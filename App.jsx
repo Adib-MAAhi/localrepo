@@ -2,6 +2,7 @@ import { useFormStatus } from "react-dom";
 function App() {
   return (
     <form className="form">
+      <header>This is our Foods company</header>
       <div>
         <h1>This is our Form</h1>
         <h2>Inter you name </h2>
