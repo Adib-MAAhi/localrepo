@@ -2,6 +2,7 @@ import { useFormStatus } from "react-dom";
 function App() {
   return (
     <form className="form">
+      <header>This is our pizza company</header>
       <div>
         <h2>Inter you name </h2>
         <input type="text" placeholder="..name" />
