@@ -5,6 +5,7 @@ function App() {
       <div>
         <h2>Inter you name </h2>
         <input type="text" placeholder="..name" />
+        <p>this is our paragraph</p>
         <Button />
       </div>
     </form>
