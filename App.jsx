@@ -16,5 +16,6 @@ function Button() {
   const { pending } = useFormStatus();
   return <button>{pending ? "Adding" : "Add"}</button>;
 }
+<p>This is our company</p>;
 
 export default App;
