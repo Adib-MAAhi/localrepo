@@ -3,6 +3,7 @@ function App() {
   return (
     <form className="form">
       <div>
+        <h1>This is our Form</h1>
         <h2>Inter you name </h2>
         <input type="text" placeholder="..name" />
         <Button />
