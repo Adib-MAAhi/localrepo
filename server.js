@@ -221,15 +221,81 @@ const menu = [
   {
     id: 30,
     name: "Fresh Fit",
-    unitPrice: 670,
+    unitPrice: 770,
     imageUrl: "https://maahi-62hc.onrender.com/bloom/tshirts-30.jpg",
     soldOut: false,
   },
   {
     id: 31,
     name: "True Original",
-    unitPrice: 670,
+    unitPrice: 770,
     imageUrl: "https://maahi-62hc.onrender.com/bloom/tshirts-31.jpg",
+    soldOut: false,
+  },
+  {
+    id: 32,
+    name: "Trend Setters",
+    unitPrice: 770,
+    imageUrl: "https://maahi-62hc.onrender.com/bloom/tshirts-32.jpg",
+    soldOut: false,
+  },
+  {
+    id: 33,
+    name: "Minimalist Moves",
+    unitPrice: 770,
+    imageUrl: "https://maahi-62hc.onrender.com/bloom/tshirts-33.jpg",
+    soldOut: false,
+  },
+  {
+    id: 34,
+    name: "Sleek & Simple",
+    unitPrice: 770,
+    imageUrl: "https://maahi-62hc.onrender.com/bloom/tshirts-34.jpg",
+    soldOut: false,
+  },
+  {
+    id: 35,
+    name: "The Daily Tee",
+    unitPrice: 770,
+    imageUrl: "https://maahi-62hc.onrender.com/bloom/tshirts-35.jpg",
+    soldOut: false,
+  },
+  {
+    id: 36,
+    name: "Everyday Essentials",
+    unitPrice: 770,
+    imageUrl: "https://maahi-62hc.onrender.com/bloom/tshirts-36.jpg",
+    soldOut: false,
+  },
+  {
+    id: 37,
+    name: "Weekend Warrior",
+    unitPrice: 770,
+    imageUrl: "https://maahi-62hc.onrender.com/bloom/tshirts-37.jpg",
+    soldOut: false,
+  },
+
+  {
+    id: 38,
+    name: "Bold & Basic",
+    unitPrice: 770,
+    imageUrl: "https://maahi-62hc.onrender.com/bloom/tshirts-38.jpg",
+    soldOut: false,
+  },
+
+  {
+    id: 39,
+    name: "The Perfect Tee",
+    unitPrice: 770,
+    imageUrl: "https://maahi-62hc.onrender.com/bloom/tshirts-39.jpg",
+    soldOut: false,
+  },
+
+  {
+    id: 40,
+    name: "The Go-To Tee",
+    unitPrice: 770,
+    imageUrl: "https://maahi-62hc.onrender.com/bloom/tshirts-40.jpg",
     soldOut: false,
   },
 ];
