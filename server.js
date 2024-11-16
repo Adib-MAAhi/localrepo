@@ -201,7 +201,7 @@ const menu = [
     id: 27,
     name: "Vintage Vibe",
     unitPrice: 770,
-    imageUrl: "/bloom/tshirts-27.jpg",
+    imageUrl: "https://maahi-2.onrender.com/bloom/tshirts-27.jpg",
     soldOut: false,
   },
   {
@@ -229,7 +229,7 @@ const menu = [
     id: 31,
     name: "True Original",
     unitPrice: 770,
-    imageUrl: "/.jpg",
+    imageUrl: "https://maahi-2.onrender.com/bloom/tshirts-31.jpg",
     soldOut: false,
   },
   {
